@@ -71,17 +71,3 @@ This project was developed to practice real-world embedded hardware design workf
 - Git & GitHub
 
 ---
-
-# Repository Structure
-
-```text
-/Hardware
-    /Schematic
-    /PCB
-    /Gerbers
-    /BOM
-    /3D_Models
-
-/Firmware
-
-/Documents
